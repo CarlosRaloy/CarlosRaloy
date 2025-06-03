@@ -6,6 +6,10 @@
   💡 Siempre aprendiendo y experimentando con herramientas como <b>Docker</b>, <b>Elasticsearch</b>, <b>Kafka</b> y más.
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" alt="Pixel Art" width="300">
+</p>
+
 ---
 
 ## 👨🏻‍💻 Tech Stack
@@ -25,8 +29,6 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/tigrecarlos1)
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## 🛠️ Skills Overview
 
